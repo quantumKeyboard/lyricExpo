@@ -1,4 +1,4 @@
 # Lyrics Vault Organizer
 
-[tinyurl.com/lyricExpoReadme
+[lyricExpoReadme
 ](https://tinyurl.com/lyricExpoReadme)
